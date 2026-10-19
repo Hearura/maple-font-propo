@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono Propo",
+  "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
   "enable_ligature": true,
@@ -73,7 +73,7 @@
     "enable": true,
     "version": "3.4.0",
     "mono": false,
-    "propo": true,
+    "propo": false,
     "use_font_patcher": false,
     "glyphs": [
       "--complete"
@@ -81,7 +81,7 @@
     "extra_args": []
   },
   "cn": {
-    "enable": true,
+    "enable": false,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
